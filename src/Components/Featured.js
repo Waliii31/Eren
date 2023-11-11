@@ -16,7 +16,7 @@ const Featured = () => {
                 </div>
                 <div className='d-flex justify-content-between align-items-center'>
                     <h4>Sacrificial Chair Design</h4>
-                    <a href=""><i className="bi bi-bag"></i></a>
+                    <a href="/"><i className="bi bi-bag"></i></a>
                 </div>
                 <p>$ 170.00</p>
             </div>
@@ -26,7 +26,7 @@ const Featured = () => {
                 </div>
                 <div className='d-flex justify-content-between align-items-center'>
                     <h4>Sacrificial Chair Design</h4>
-                    <a href=""><i className="bi bi-bag"></i></a>
+                    <a href="/"><i className="bi bi-bag"></i></a>
                 </div>
                 <p>$ 170.00</p>
             </div>
@@ -36,7 +36,7 @@ const Featured = () => {
                 </div>
                 <div className='d-flex justify-content-between align-items-center'>
                     <h4>Sacrificial Chair Design</h4>
-                    <a href=""><i className="bi bi-bag"></i></a>
+                    <a href="/"><i className="bi bi-bag"></i></a>
                 </div>
                 <p>$ 170.00</p>
             </div>
@@ -46,7 +46,7 @@ const Featured = () => {
                 </div>
                 <div className='d-flex justify-content-between align-items-center'>
                     <h4>Sacrificial Chair Design</h4>
-                    <a href=""><i className="bi bi-bag"></i></a>
+                    <a href="/"><i className="bi bi-bag"></i></a>
                 </div>
                 <p>$ 170.00</p>
             </div>

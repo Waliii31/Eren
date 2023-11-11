@@ -6,6 +6,9 @@ import Price from '../Components/Price'
 import Rated from '../Components/Rated'
 import Featured from '../Components/Featured'
 import Theme from '../Components/Theme'
+import Blogs from '../Components/Blogs'
+import Stickers from '../Components/Stickers'
+import Subscribe from '../Components/Subscribe'
 
 const Home = () => {
   return (
@@ -17,6 +20,9 @@ const Home = () => {
       <Rated/>
       <Featured/>
       <Theme/>
+      <Blogs/>
+      <Stickers/>
+      <Subscribe/>
     </div>
   )
 }
