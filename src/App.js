@@ -10,6 +10,7 @@ import Blogs from './Components/Blogs'
 import Stickers from './Components/Stickers'
 import Subscribe from './Components/Subscribe'
 import Contact from './Components/Contact'
+import Footer from './Components/Footer'
 import asset12 from './images/asset 12.jpeg'
 import asset13 from './images/asset 13.jpeg'
 import asset14 from  './images/asset 14.jpeg'
@@ -57,6 +58,7 @@ const Home = () => {
       <Stickers/>
       <Subscribe/>
       <Contact/>
+      <Footer/>
     </div>
   )
 }

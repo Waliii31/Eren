@@ -1,4 +1,6 @@
 import React from 'react'
+// In your JavaScript or CSS file
+import 'animate.css';
 import asset3 from '../images/asset 3.png'
 
 const Hero = () => {
