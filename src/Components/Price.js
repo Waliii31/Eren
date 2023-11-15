@@ -30,8 +30,8 @@ const Price = () => {
 
   return (
     <section className="products">
-        <h1 className='products-head'>NEW ARRIVALS</h1>
-        <p className='products-para'>Claritas est etiam processus dynamicus, qui sequitur.</p>
+        <h1 className='heading'>NEW ARRIVALS</h1>
+        <p className='paragraph'>Claritas est etiam processus dynamicus, qui sequitur.</p>
       <div className="products-container">
         <div className="flip-card">
           <div className="flip-card-inner">

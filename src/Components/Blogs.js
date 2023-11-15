@@ -6,9 +6,9 @@ import asset19 from '../images/asset 19.jpeg'
 
 const Blogs = () => {
   return (
-    <section className='blogs'>
-        <h1 className='products-head text-center'>FEATURED PRODUCTS</h1>
-        <p className='products-para text-center'>Claritas est etiam processus dynamicus, qui sequitur.</p>
+    <section id='blogs' className='blogs'>
+        <h1 className='heading'>FROM OUR BLOG</h1>
+        <p className='paragraph'>Claritas est etiam processus dynamicus, qui sequitur.</p>
       <div className='container'>
         <div className='blog'>
             <div className='blog-img'>
